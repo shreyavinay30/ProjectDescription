@@ -2,4 +2,3 @@ Student management system
 in this:
 we have 1.marks management
         2. Attendence system and maintainences needed
-this is the system
