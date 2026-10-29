@@ -1,0 +1,4 @@
+Student management system
+in this:
+we have 1.marks management
+        2. Attendence management
